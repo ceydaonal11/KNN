@@ -1,0 +1,2 @@
+# KNN
+ Şeker Hastalığı Tahmini
